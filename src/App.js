@@ -416,8 +416,6 @@ const Sliders = styled.div`
   }
 `;
 
-const Webkit = styled.div``;
-const Message = styled.div``;
 const Opacity = styled.div``;
 const BlurRadius = styled.div``;
 const Vertical = styled.div``;
