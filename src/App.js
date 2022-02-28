@@ -74,7 +74,7 @@ function App() {
       <StyledApp>
         <Header>
           <h5>BoxShadow</h5>
-          <p>This tool helps you create easily Box Shadows</p>
+          <p>This tool hhelps you create easily Box Shadows</p>
           <CopyToClipboard text={clipboard} onCopy={handleCopy}>
             <Results>
               {isCopied && <CopiedMessage>👍 copied!</CopiedMessage>}
